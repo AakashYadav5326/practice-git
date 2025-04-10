@@ -14,3 +14,8 @@ function subract(a,b){
  
 console.log(subract(a,b));
  
+// 4 commit 
+function divide (a,b){
+    return a/b;
+}
+console.log(divide(a,b));
